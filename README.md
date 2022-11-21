@@ -10,6 +10,7 @@ Documentation:
 ## Features της εφαρμογής:
 
 (1st Step)
+
 Θεωρητικό Υπόβαθρο: jsx syntax(components), πότε κάνει rerender η react, useState hook, props, functional components
 -> Πειραματιστείτε λίγο για να συνηθίσετε το jsx, τα functional components, απορίες κάθε κυριακή και telegram.
 
