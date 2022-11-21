@@ -15,6 +15,8 @@ Documentation:
 -> Πειραματιστείτε λίγο για να συνηθίσετε το jsx, τα functional components, απορίες κάθε κυριακή και telegram.
 
 (2nd Step)
+Things to lookup: Controlled components, updating state, preventDefault
+
 1. Να μπορεί ένας φοιτητής να συμπληρώσει μία φόρμα για εγγραφή.
 <sub>(Όλα μας τα δεδομένα για αρχή δεν θα αποθηκεύονται, οπότε θα τα δημιουργούμε εμείς)</sub>
  
