@@ -3,6 +3,11 @@
 Ουσιαστικά θα αρχίσουμε να φτιάχνουμε ένα πρόγραμμα διαχείρισης φοιτητών, καθηγητών και μαθημάτων(όσο προχωράμε θα γίνεται και πιο ρεαλιστικό)
 (γενικά σχετικά με ui μπορείτε να πειραματιστείτε όπως θέλετε, εδώ θα ασχοληθούμε μονάχα με layouts,responsiveness,theming etc.) 
 
+!!Γενικά προσοχή στα tutorials, φροντίστε ό,τι βλέπετε να έχει functional components, τα class είναι deprecated.
+[Training Resources και roadmap στο gitlab της ομάδας frontend](https://gitlab.com/opensourceuom/frontend-team/-/issues/1)
+
+<sub>Στο gitlab του frontend όσοι δεν είστε ήδη κάντε request access [εδώ.](https://gitlab.com/opensourceuom/frontend-team)</sub> 
+
 Documentation:
 1. [νέα έκδοση με functional components](https://beta.reactjs.org/) 
 2. [παλιά έκδοση που έχει και functional και class](https://reactjs.org/docs/getting-started.html)
